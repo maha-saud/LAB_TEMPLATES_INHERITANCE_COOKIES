@@ -37,22 +37,8 @@ body {
     border-bottom: 2px solid blue;
 }
 
-.email{
-    position: absolute;
-    font-size: 18px;
-    font-weight: 500;
-    bottom: 0;
-    top: 180px;
-       
-}
 
-.email a {
-    color: blue;
-    border-bottom: 2px solid blue;
-    
-
-    
-}
+   
 .address {
     position: absolute;
     font-size: 18px;
